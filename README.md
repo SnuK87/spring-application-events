@@ -2,9 +2,9 @@
 PubSub of spring application events
 
 ## Web endpoints
-- `/simple`
-- `/generic`
-- `async`
+- `GET /simple`
+- `GET /generic`
+- `GET /async`
 
 ## Docs
 https://docs.spring.io/spring-framework/docs/current/spring-framework-reference/core.html#context-functionality-events-annotation
